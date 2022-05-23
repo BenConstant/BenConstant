@@ -7,6 +7,10 @@ Hello there!, I am a young, enthusiast Chemical Engineer with a Master’s in Ch
 - 🔭 I’m currently working in Circular economy
 - 🌱 I’m currently learning Python (Deeplearning, COMSOL (CFD model), Matlab (Dynamic process) and Fusion360 (3d modeling).
 
+### Links
+
+- https://www.linkedin.com/in/benjamin-constant-b584001a2/
+- https://instagram.com/goldenjunkplastic_3d?igshid=YmMyMTA2M2Y=
 <!--
 **BenConstant/BenConstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
