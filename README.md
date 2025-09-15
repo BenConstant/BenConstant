@@ -4,13 +4,13 @@ Hello there!, I am a young, enthusiast Chemical Engineer with a Master’s in Ch
 
 ### Something about my works
 
-- 🔭 I’m currently working in Circular economy
-- 🌱 I’m currently learning Python (Deeplearning, COMSOL (CFD model), Matlab (Dynamic process) and Fusion360 (3d modeling).
+- 🔭 I’m currently working in Digital twins, Soft Senser, Optimization process.
+- 🌱 I’m currently learning Python (Deeplearning, Django), COMSOL (CFD model), Matlab (Dynamic process), Rust (PyO3) and gProms (Optimization process).
 
 ### Links
 
 - https://www.linkedin.com/in/benjamin-constant-b584001a2/
-- https://instagram.com/goldenjunkplastic_3d?igshid=YmMyMTA2M2Y=
+- https://www.researchgate.net/profile/Benjamin-Constant-3?ev=hdr_xprf
 <!--
 **BenConstant/BenConstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
