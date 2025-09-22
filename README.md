@@ -1,26 +1,50 @@
 ### Welcome to my profile! 👋
 ![image](https://user-images.githubusercontent.com/81775847/169853872-0cd5f782-64ce-4c6b-b3b2-48bdc3b5134f.png)
-Hello there!, I am a young, enthusiast Chemical Engineer with a Master’s in Chemical Engineering, specialized in Materials Science, with experience in the synthesis and modeling of polymers and nanomaterials.
+👋 Hello there!
 
-### Something about my works
+I am Benjamin Constant, a passionate Chemical Engineer (M.Sc.) currently completing my PhD in Chemical Engineering.
+My research and professional focus lies in phenomenological and statistical process simulation, digital twins, and optimization strategies applied to chemical and materials engineering.
 
-- 🔭 I’m currently working in Digital twins, Soft Senser, Optimization process.
-- 🌱 I’m currently learning Python (Deeplearning, Django), COMSOL (CFD model), Matlab (Dynamic process), Rust (PyO3) and gProms (Optimization process).
+🔬 About me
 
-### Links
+🎓 PhD Candidate in Chemical Engineering.
 
-- https://www.linkedin.com/in/benjamin-constant-b584001a2/
-- https://www.researchgate.net/profile/Benjamin-Constant-3?ev=hdr_xprf
-<!--
-**BenConstant/BenConstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Specialized in materials science, polymers, and nanomaterials.
 
-Here are some ideas to get you started:
+⚙️ Experienced in process simulation and modeling at both academic and industrial levels.
 
+🌍 Enthusiastic about connecting engineering, data science, and innovation to solve complex problems.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Toolbox
+
+Programming & Data: Python (data science, deep learning, Django), Rust (PyO3), Matlab (dynamic process modeling).
+
+Process Simulation: gPROMS (optimization, digital twins), COMSOL (CFD modeling), Aspen Plus, PHREEQC.
+
+Skills: Soft-sensor development, advanced optimization, mass/energy balances, statistical modeling.
+
+🔭 Current Interests
+
+Digital Twins for process optimization.
+
+Soft Sensors for real-time monitoring and control.
+
+Advanced modeling of lithium brine processes and membrane technologies.
+
+Integration of AI/ML with chemical engineering simulations.
+
+🌱 Currently Learning
+
+Deep learning frameworks for engineering applications.
+
+Web development with Django (interactive dashboards).
+
+Rust for high-performance simulation backends.
+
+📫 Connect with me
+
+💼 LinkedIn
+
+📚 ResearchGate
+
+✨ Always open to collaborations in process engineering, modeling, and optimization.
