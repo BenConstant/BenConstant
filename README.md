@@ -43,4 +43,10 @@ My research and professional focus lies in **phenomenological and statistical pr
 
 ---
 
+### 🛠️ Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![gPROMS](https://img.shields.io/badge/gPROMS-Simulation-green?style=for-the-badge)
+![COMSOL](https://img.shields.io/badge/COMSOL-CFD-red?style=for-the-badge)
 ✨ _Always open to collaborations in process engineering, modeling, and optimization._  
